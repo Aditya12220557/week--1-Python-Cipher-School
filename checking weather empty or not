@@ -1,0 +1,8 @@
+# empty list
+lst = []
+
+# Checking whether the list size is equal to 0
+if len(lst) == 0:
+   print('Empty list')
+else:
+   print('Not Empty list')
