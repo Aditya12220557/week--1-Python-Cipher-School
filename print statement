@@ -1,0 +1,7 @@
+# This line will automatically add a new line before the
+# next print statement
+print ("I am learning on Cipher School")
+
+# This print() function ends with "**" as set in the end argument.
+print ("I will continue learning on Cipher School", end= "**")
+print("Welcome to Cipher School")
